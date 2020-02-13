@@ -1,0 +1,10 @@
+{
+  "name": "xiaoge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhangxiaoge <1421654505@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
